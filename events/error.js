@@ -1,4 +1,4 @@
-const Discord = require('discord.js');
+const Discord = require('discord.js-selfbot');
 const config = require('../config.json');
 
 module.exports = (bot, error) => {
