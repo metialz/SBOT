@@ -2,7 +2,7 @@
 const {
   Client,
   RichEmbed
-} = require('discord.js')
+} = require('discord.js-selfbot')
 function ran (min, max) { // min and max included
   return Math.floor(Math.random() * (max - min + 1) + min)
 }

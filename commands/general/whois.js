@@ -1,7 +1,7 @@
 const {
   Client,
   RichEmbed
-} = require('discord.js')
+} = require('discord.js-selfbot')
 const moment = require('moment')
 
 module.exports.run = async (bot, message, args) => {

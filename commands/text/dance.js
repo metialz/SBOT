@@ -1,7 +1,7 @@
 const {
   Client,
   RichEmbed
-} = require('discord.js')
+} = require('discord.js-selfbot')
 module.exports.run = async (bot, message, args) => {
   message.edit('♪┏(・o･)┛♪')
   message.edit('♪┗ ( ･o･) ┓♪')

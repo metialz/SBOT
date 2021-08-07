@@ -1,7 +1,7 @@
 const {
   Client,
   RichEmbed
-} = require('discord.js')
+} = require('discord.js-selfbot')
 const { readSync } = require('fs')
 const config = require('../../config.json')
 const photo = config.photo
