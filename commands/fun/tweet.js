@@ -2,7 +2,7 @@
 const {
   Client,
   RichEmbed
-} = require('discord.js-selfbot')
+} = require('discord.js-selfbot-v11')
 const fetch = require('node-fetch')
 const config = require('../../config.json')
 const photo = config.photo

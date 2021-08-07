@@ -1,7 +1,7 @@
 const {
   Client,
   RichEmbed
-} = require('discord.js-selfbot')
+} = require('discord.js-selfbot-v11')
 const config = require('../../config.json')
 const rpc = require('discordrpcgenerator')
 const photo = config.photo
